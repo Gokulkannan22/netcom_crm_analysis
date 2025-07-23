@@ -1,29 +1,29 @@
-# 📊 Netcom CRM Business Trend Analysis
+#  Netcom CRM Business Trend Analysis
 
 A complete exploratory data analysis (EDA) of Netcom Service CRM leads dataset, focusing on lead quality, source performance, sales funnel efficiency, and actionable business insights. Built using Jupyter Notebook and visualized in Power BI.
 
 ---
 
-## 🧠 Project Objective
+##  Project Objective
 
 To analyze the customer lead data from Netcom Service CRM and extract valuable business insights that help improve conversion rates, optimize lead sources, and strengthen sales performance.
 
 ---
 
-## 📌 Key Highlights
+##  Key Highlights
 
-- ✅ Cleaned and transformed raw CRM data 
-- 🛠️ Feature engineering: Lead timing, status standardization, priority encoding, remark quality scoring
-- 📊 Generated 360° lead funnel insights with clear scoring logic
-- 💡 Identified high- and low-performing lead sources and sales stages
-- 🧼 Final cleaned dataset reduced to 353 valid and complete entries
-- 📈 Created a Power BI dashboard for business users
+-  Cleaned and transformed raw CRM data 
+-  Feature engineering: Lead timing, status standardization, priority encoding, remark quality scoring
+-  Generated 360° lead funnel insights with clear scoring logic
+-  Identified high- and low-performing lead sources and sales stages
+-  Final cleaned dataset reduced to 353 valid and complete entries
+-  Created a Power BI dashboard for business users
 
 ---
 
-## 🔍 EDA Summary
+##  EDA Summary
 
-| 🧩 **Category**         | 🔎 **Insight**                                                                                                                            | 💡 **Business Recommendation**                                                                              |
+|  **Category**         |  **Insight**                                                                                                                            |  **Business Recommendation**                                                                              |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | **Status Distribution** | Majority of leads are `Closed` or `Follow Up`, indicating good pipeline activity. However, significant `Dropped` leads point to friction. | Investigate reasons for drop-offs. Strengthen lead nurturing and follow-up SOPs.                            |
 | **Lead Source Quality** | `Google` and `Cold Call` showed best performance in both volume and conversion quality. `Events` and `Partner Referral` underperformed.   | Increase focus and budget on top-performing sources; re-evaluate or optimize weak lead channels.            |
@@ -36,18 +36,18 @@ To analyze the customer lead data from Netcom Service CRM and extract valuable b
 
 ---
 
-## 📂 Files Included
+##  Files Included
 
 | File                          | Description |
 |------------------------------|-------------|
 | `final_netcom_analysis.ipynb`| Full cleaned and annotated EDA notebook |
 | `netcom_powerbi.pdf`         | Exported Power BI dashboard (read-only) |
 
-> 🚫 **Note:** Original CRM Excel files have been excluded for privacy and security reasons.
+>  **Note:** Original CRM Excel files have been excluded for privacy and security reasons.
 
 ---
 
-## 🛠️ Tech Stack
+##   Tech Stack
 
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
 - Jupyter Notebook
