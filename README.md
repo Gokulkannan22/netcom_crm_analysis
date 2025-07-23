@@ -23,15 +23,16 @@ To analyze the customer lead data from Netcom Service CRM and extract valuable b
 
 ## 🔍 EDA Summary
 
-| Category                | Insight |
-|------------------------|---------|
-| **Status Distribution** | Most leads are `Closed` or in `Follow Up`. Significant `Dropped` leads indicate friction in pipeline. |
-| **Lead Source Quality** | `Google` & `Cold Call` performed best. `Events` & `Partner Referral` need improvement. |
-| **Sales Funnel**        | Drop-offs observed between `#3 Quoted` → `#4 Hot` → `#5 Sold`. |
-| **Priority Leads**      | `Urgent` leads had higher conversion — but many were also dropped. |
-| **Temporal Trends**     | Most leads came in March and during mid-week (Tue–Thu). |
-| **Remarks Quality**     | Leads with meaningful remarks converted better. |
-| **Category Performance**| Online sources performed best in both quantity and quality. |
+| 🧩 **Category**         | 🔎 **Insight**                                                                                                                            | 💡 **Business Recommendation**                                                                              |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Status Distribution** | Majority of leads are `Closed` or `Follow Up`, indicating good pipeline activity. However, significant `Dropped` leads point to friction. | Investigate reasons for drop-offs. Strengthen lead nurturing and follow-up SOPs.                            |
+| **Lead Source Quality** | `Google` and `Cold Call` showed best performance in both volume and conversion quality. `Events` and `Partner Referral` underperformed.   | Increase focus and budget on top-performing sources; re-evaluate or optimize weak lead channels.            |
+| **Sales Funnel Stages** | Drop-offs observed at `#3 Quoted` → `#4 Hot` → `#5 Sold`, indicating bottlenecks in mid-to-late sales stages.                             | Improve quoting process with offers, training, or automated follow-ups to push leads further in the funnel. |
+| **Priority Tagging**    | `Urgent` leads had higher close rates, but also a high drop rate — possibly due to misclassification.                                     | Refine the criteria for tagging leads as Urgent. Use validation steps to avoid false urgency.               |
+| **Temporal Trends**     | Highest lead volume occurred in **March**, especially mid-week (Tuesday–Thursday).                                                        | Plan major campaigns around high-traffic periods. Optimize staffing during peak weekdays.                   |
+| **Remarks Quality**     | Leads with rich, detailed remarks had better follow-through and conversions. Poor remarks correlated with low-quality leads.              | Encourage agents to write meaningful notes. Use automation/NLP to flag and improve low-quality remarks.     |
+| **Source Category**     | Online channels outperformed offline and referrals in both volume and quality of leads.                                                   | Prioritize digital channels in marketing spend. Reassess the ROI of offline/referral programs.              |
+
 
 ---
 
