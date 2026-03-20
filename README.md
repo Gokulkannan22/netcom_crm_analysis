@@ -6,7 +6,7 @@ This project transforms raw, messy CRM data into a structured analytical system 
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 To analyze CRM lead data and:
 
@@ -18,7 +18,7 @@ To analyze CRM lead data and:
 
 ---
 
-## 🔧 Data Preparation & Engineering
+##  Data Preparation & Engineering
 
 - Cleaned and transformed raw CRM dataset (real-world messy data)
 - Standardized lead status and stage information  
@@ -29,9 +29,9 @@ To analyze CRM lead data and:
 
 ---
 
-## 📊 Dashboard Overview
+##  Dashboard Overview
 
-### 🔢 KPI Metrics
+###  KPI Metrics
 - **Total Leads:** 19K  
 - **Converted Leads:** 9K  
 - **Conversion Rate:** ~45%  
@@ -39,7 +39,7 @@ To analyze CRM lead data and:
 
 ---
 
-### 📉 Sales Funnel Analysis
+###  Sales Funnel Analysis
 - Visualized lead progression across stages:
   - Cold → Hot → Negotiation → Converted → Dropped  
 - Identified significant drop-offs in early and mid funnel stages  
@@ -47,14 +47,14 @@ To analyze CRM lead data and:
 
 ---
 
-### 📈 Lead Trend Analysis
+###  Lead Trend Analysis
 - Analyzed lead generation trends over time  
 - Identified peak and decline periods  
 - Helps optimize campaign timing and resource allocation  
 
 ---
 
-### 📊 Lead Source Analysis (Volume)
+###  Lead Source Analysis (Volume)
 - Identified top lead-generating sources:
   - Existing Customers  
   - WhatsApp  
@@ -64,7 +64,7 @@ To analyze CRM lead data and:
 
 ---
 
-### 🎯 Conversion Rate Analysis (Quality)
+###  Conversion Rate Analysis (Quality)
 - Compared conversion efficiency across source categories  
 - Key findings:
   - **Phone Call, Referral, Walk-in** → High conversion rates  
@@ -72,21 +72,21 @@ To analyze CRM lead data and:
 
 ---
 
-### 🗺 Regional Analysis
+###  Regional Analysis
 - Leads heavily concentrated in **Kerala**
 - Limited contribution from other states  
 - Highlights opportunity for geographic expansion  
 
 ---
 
-### 🧑‍💼 Sales Performance Analysis
+###  Sales Performance Analysis
 - Identified top-performing sales agents  
 - Highlighted performance gaps across team members  
 - Supports performance tracking and incentive planning  
 
 ---
 
-## 📊 Analytical Summary & Business Insights
+##  Analytical Summary & Business Insights
 
 | **Category** | **Insight** | **Business Recommendation** |
 |-------------|------------|-----------------------------|
@@ -99,7 +99,7 @@ To analyze CRM lead data and:
 
 ---
 
-## 💡 Key Business Recommendations
+##  Key Business Recommendations
 
 - Increase investment in **high-conversion channels** (Phone Calls, Referrals, Walk-ins)  
 - Optimize **digital marketing channels** to improve lead quality  
@@ -110,7 +110,7 @@ To analyze CRM lead data and:
 
 ---
 
-## 📂 Files Included
+##  Files Included
 
 | File                          | Description |
 |------------------------------|-------------|
@@ -122,7 +122,7 @@ To analyze CRM lead data and:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python (Pandas, NumPy)  
 - Jupyter Notebook  
@@ -131,7 +131,7 @@ To analyze CRM lead data and:
 
 ---
 
-## 🎯 Business Value
+##  Business Value
 
 This project converts raw CRM data into a **decision-support system**, enabling businesses to:
 
@@ -143,6 +143,6 @@ This project converts raw CRM data into a **decision-support system**, enabling 
 
 ---
 
-## 🚀 Project Outcome
+##  Project Outcome
 
 Successfully built a **complete CRM analytics solution** that bridges the gap between raw data and business decision-making, providing actionable insights for improving sales efficiency and revenue growth.
